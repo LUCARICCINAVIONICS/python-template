@@ -1,0 +1,6 @@
+Dataset/Labels/*.*
+Dataset/Origin/*.*
+Dataset/Target/*.*
+*.log
+*.jpg
+*.png
